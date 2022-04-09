@@ -23,6 +23,7 @@ import {
   ADD_POST_TO_ME,
   REMOVE_POST_OF_ME,
 } from "../reducer/post";
+//  수정하기
 /*
   function LoadPostsAPI(data){
     return axios.get("/api/posts/", data)
